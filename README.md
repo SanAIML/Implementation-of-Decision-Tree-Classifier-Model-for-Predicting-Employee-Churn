@@ -117,8 +117,9 @@ satisfaction_level	last_evaluation	number_project	average_montly_hours	time_spen
 4	0.37	0.52	2	159
 
 0.9846666666666667
+```
 
-
+![decision tree classifier model](sam.png)
 
 ![download](https://github.com/user-attachments/assets/5c1ef4d5-8abd-4ad5-884b-b9b08fa50698)
 
