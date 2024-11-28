@@ -56,7 +56,7 @@ plt.show()
 
 ## Output:
 ![decision tree classifier model](sam.png)
-```
+
 
 satisfaction_level	last_evaluation	number_project	average_montly_hours	time_spend_company	Work_accident	left	promotion_last_5years	Departments	salary
 0	0.38	0.53	2	157	3	0	1	0	sales	low
