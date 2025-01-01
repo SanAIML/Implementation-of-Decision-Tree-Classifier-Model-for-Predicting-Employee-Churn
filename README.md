@@ -21,6 +21,7 @@ Developed by: Sanchita Sandeep
 RegisterNumber:  24900172
 */
 ```
+```
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier,plot_tree
 import matplotlib.pyplot as plt
@@ -51,7 +52,7 @@ import matplotlib.pyplot as plt
 plt.figure(figsize=(8,6))
 plot_tree(dt,feature_names=x.columns,class_names=['salary','left'],filled=True)
 plt.show()       
-     
+```    
 
 
 ## Output:
